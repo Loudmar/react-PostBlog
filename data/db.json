@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "My post",
+      "datetime": "",
+      "body": "This is a post, the first, about everything and anything really, just so you know what I am doing here."
+    },
+    {
+      "id": 3,
+      "title": "My second post",
+      "datetime": "",
+      "body": "This is a post, the second, about everything and anything really, just so you know what I am doing here."
+    },
+    {
+      "id": 4,
+      "title": "My other post",
+      "datetime": "",
+      "body": "This is a post, the third, about everything and anything really, just so you know what I am doing here."
+    },
+    {
+      "id": 5,
+      "title": "My post",
+      "datetime": "February 01, 2023 9:38:09 AM",
+      "body": "This is a post, the last, about everything and anything really, just so you know what I am doing here."
+    }
+  ]
+}
